@@ -1,6 +1,19 @@
 h1 {
     background: cyan;
 }
+
+.container {
+    font-weight: bold;
+}
+.asteroid {
+    border: 1px solid green;
+}
+.big { 
+    border: none;
+    color: blue;
+}
 p {
     color: rgb(52, 185, 48);
+    font-weight: normal;
+    background: yellow;
 }
